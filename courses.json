@@ -10,13 +10,25 @@
     "certification" : "free"
   },
   {
-    "id" :  2,
+    cc"
+  },
+{
+  "id" :  3,
+    "platform" : "coursera",
+    "free_course" : "no",
+    "course_name" : "The Complete Python Pro Bootcamp for 2023",
+    "link" : "https://www.udemy.com/course/100-days-of-code/",
+    "difficulty" : "beginner",
+    "module_number" : 6,
+    "certification" : "paid"
+},
+{
+  "id" :  4,
     "platform" : "coursera",
     "free_course" : "yes",
-    "course_name" : "Basic C",
-    "link" : "https://coursera.com/Basic-C",
+    "course_name" : "Object Oriented Programming in Java",
+    "link" : "cc://www.coursera.org/specializations/object-oriented-programming",
     "difficulty" : "beginner",
-    "module_number" : 7,
+    "module_number" : 5,
     "certification" : "paid"
-  }
-]
+}
